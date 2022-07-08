@@ -1,6 +1,6 @@
 <h1 align=center>👩‍💻Transforma Tec📚</h1>
 
-## Desafio Formulário em React JS referente ao módulo IV
+## Desafio Conversor de Criptomoedas em React JS referente ao módulo IV
 
 
 ![convertergit](https://user-images.githubusercontent.com/96606916/174683888-9e4fc546-a8b2-4cd8-ae50-3936e92924ae.png)
